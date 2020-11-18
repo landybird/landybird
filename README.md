@@ -1,10 +1,25 @@
 ### 👋 Welcome !
 
 
+**🌈 Profiles:**
 
-- :smile: I’m currently working with `python` :snake: and sometimes `php` :elephant:
-- :grin: I’m currently learning `Golang`
+
+- :smile: I’m a backend developer at `Beijing`
+- :grin: I’m currently learning `Golang` and `Flutter`
 - :movie_camera: I’m a huge fan of [Love, Death & Robots](https://zh.wikipedia.org/wiki/Love,_Death_%26_Robots)
+
+
+**🌈 Languages and Tools:**
+
+<p align="left">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/yii/yii-original.svg" alt="yii" width="40" height="40"/>
+</p>
 
 
 
