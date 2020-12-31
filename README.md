@@ -4,7 +4,6 @@
 **🌈 Profiles:**
 
 
-- :smile: 
 - :grin: I’m a backend developer at `Beijing`, I’m currently learning `Golang` and `k8s`
 - :movie_camera: I’m a huge fan of [Love, Death & Robots](https://zh.wikipedia.org/wiki/Love,_Death_%26_Robots)
 
