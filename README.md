@@ -9,7 +9,7 @@
 - :movie_camera: I’m a huge fan of [Love, Death & Robots](https://zh.wikipedia.org/wiki/Love,_Death_%26_Robots)
 
 
-**🌈 Languages and Tools:**
+**:smile_cat:  Tools:**
 
 <p align="left">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
