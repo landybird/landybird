@@ -21,7 +21,7 @@
 <img src="https://img.icons8.com/color/344/vue-js.png" alt="vuejs" width="40" height="40"/>
 <img src="https://avatars.githubusercontent.com/u/993323?s=200&v=4" alt="yii" width="40" height="40"/>
 <img src="https://img.icons8.com/ios-filled/344/mysql-logo.png" alt="mysql" width="40" height="40"/>
-<img src="  https://img.icons8.com/color/344/redis.png" alt="redis" width="40" height="40"/>
+<img src="https://img.icons8.com/color/344/redis.png" alt="redis" width="40" height="40"/>
 </p>
 
 
