@@ -16,7 +16,7 @@
 <img src="https://img.icons8.com/color/344/python.png" alt="python" width="40" height="40"/>
 <img src="https://img.icons8.com/color/344/golang.png" alt="go" width="40" height="40"/>
 <img src="https://img.icons8.com/dusk/344/php-logo.png" alt="php" width="40" height="40"/>
-<img src="https://img.icons8.com/ios/344/django.png" alt="django" width="40" height="40"/>
+<img src="https://img.icons8.com/color/344/django.png" alt="django" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
 <img src="https://img.icons8.com/color/344/vue-js.png" alt="vuejs" width="40" height="40"/>
 <img src="https://avatars.githubusercontent.com/u/993323?s=200&v=4" alt="yii" width="40" height="40"/>
