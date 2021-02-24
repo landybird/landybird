@@ -6,7 +6,7 @@
 
 
 - :grin: I’m a backend developer at `Beijing`, I’m currently learning `Golang` and `k8s`
-- :movie_camera: I’m a huge fan of [Love, Death & Robots](https://zh.wikipedia.org/wiki/Love,_Death_%26_Robots) <img src="https://img.icons8.com/clouds/2x/filled-like.png" alt="go" width="40" height="40"/> <img src="https://img.icons8.com/plasticine/344/thriller.png" alt="go" width="40" height="40"/> <img src="https://img.icons8.com/doodle/344/robot-2--v1.png" alt="go" width="40" height="40"/>
+- :movie_camera: I’m a huge fan of [Love, Death & Robots](https://zh.wikipedia.org/wiki/Love,_Death_%26_Robots) <img src="upload.wikimedia.org/wikipedia/zh/thumb/a/a3/Love_Death_%26_Robots_logo.png/250px-Love_Death_%26_Robots_logo.png" alt="go" width="40" height="40"/>
 
 
 
