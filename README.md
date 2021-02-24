@@ -6,7 +6,10 @@
 
 
 - :grin: I’m a backend developer at `Beijing`, I’m currently learning `Golang` and `k8s`
-- :movie_camera: I’m a huge fan of [Love, Death & Robots](https://zh.wikipedia.org/wiki/Love,_Death_%26_Robots)
+- :movie_camera: I’m a huge fan of [Love, Death & Robots](https://zh.wikipedia.org/wiki/Love,_Death_%26_Robots) <img src="https://img.icons8.com/clouds/2x/filled-like.png" alt="go" width="40" height="40"/> <img src="https://img.icons8.com/plasticine/344/thriller.png" alt="go" width="40" height="40"/> <img src="https://img.icons8.com/doodle/344/robot-2--v1.png" alt="go" width="40" height="40"/>
+
+
+
 - :telephone: `echo 'MTc1MzUyODkwNjkK' | base64 -d`
 
 
