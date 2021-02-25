@@ -7,7 +7,7 @@
 
 - :computer: I’m a backend developer at `Beijing`, I’m currently learning `Golang` and `k8s`
 - :movie_camera: I’m a huge fan of [Love, Death & Robots](https://zh.wikipedia.org/wiki/Love,_Death_%26_Robots) 
-- :iphone: `echo 'MTc1MzUyODkwNjkK' | base64 -d`
+- :telephone: `echo 'MTc1MzUyODkwNjkK' | base64 -d`
 
 
 **:smile_cat:  Tools:**
@@ -19,7 +19,7 @@
 <img src="https://img.icons8.com/color/344/django.png" alt="django" width="40" height="40"/>
 <img src="https://img.icons8.com/color/344/vue-js.png" alt="vuejs" width="40" height="40"/>
 <img src="https://avatars.githubusercontent.com/u/993323?s=200&v=4" alt="yii" width="40" height="40"/>
-<img src="https://img.icons8.com/ios-filled/344/mysql-logo.png" alt="mysql" width="40" height="40"/>
+<img src="https://img.icons8.com/officel/344/mysql.png" alt="mysql" width="40" height="40"/>
 <img src="https://img.icons8.com/color/344/redis.png" alt="redis" width="40" height="40"/>
 <img src="https://img.icons8.com/color/344/jenkins.png" alt="jenkins" width="40" height="40"/>
 </p>
