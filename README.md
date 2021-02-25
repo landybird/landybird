@@ -28,5 +28,5 @@
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=landybird&show_icons=true&title_color=5bd1d7&icon_color=eaffd0&text_color=f2f4f6&bg_color=263859" width="400" />
-<img align="left" src="https://truth.bahamut.com.tw/s01/201908/bc1a4ad718a96733ba4786efd8f49a71.JPG" width="400" />
+<img align="left" src="https://truth.bahamut.com.tw/s01/201908/bc1a4ad718a96733ba4786efd8f49a71.JPG" width="200" />
 
