@@ -17,6 +17,7 @@
 <img src="https://img.icons8.com/color/344/golang.png" alt="go" width="40" height="40"/>
 <img src="https://img.icons8.com/dusk/344/php-logo.png" alt="php" width="40" height="40"/>
 <img src="https://img.icons8.com/color/344/django.png" alt="django" width="40" height="40"/>
+<img src="https://go-kratos.dev/img/logo.svg" alt="kratos" width="40" height="40"/>  
 <img src="https://img.icons8.com/color/344/vue-js.png" alt="vuejs" width="40" height="40"/>
 <img src="https://avatars.githubusercontent.com/u/993323?s=200&v=4" alt="yii" width="40" height="40"/>
 <img src="https://img.icons8.com/officel/344/mysql.png" alt="mysql" width="40" height="40"/>
